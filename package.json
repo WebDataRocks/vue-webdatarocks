@@ -1,0 +1,64 @@
+{
+  "name": "vue-webdatarocks",
+  "version": "1.3.3",
+  "description": "VueJS Module for Flexmonster Pivot Table & Charts",
+  "main": "./dist/index.js",
+  "module": "./dist/index.esm.min.js",
+  "unpkg": "./dist/index.umd.min.js",
+  "jsdelivr": "./dist/index.umd.min.js",
+  "scripts": {
+    "dev": "vue serve Pivot.vue",
+    "build": "bili --bundle-node-modules"
+  },
+  "author": {
+    "name": "WebDataRocks",
+    "email": "help@webdatarocks.com"
+  },
+  "license": "MIT",
+  "files": [
+    "dist/*"
+  ],
+  "devDependencies": {
+    "bili": "^4.8.1",
+    "rollup-plugin-vue": "=5.1.1",
+    "vue-template-compiler": "^2.6.10"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "peerDependencies": {
+    "webdatarocks": "latest"
+  },
+  "dependencies": {
+    "webdatarocks": "latest"
+  },
+  "keywords": [
+    "pivot",
+    "html5",
+    "grid",
+    "table",
+    "pivottable",
+    "pivotgrid",
+    "pivotchart",
+    "vue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WebDataRocks/vue-webdatarocks"
+  },
+  "bugs": {
+    "url": "https://github.com/WebDataRocks/web-pivot-table/issues"
+  },
+  "homepage": "https://www.webdatarocks.com/"
+}
