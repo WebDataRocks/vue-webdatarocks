@@ -1,0 +1,24 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Git\\PIVOT\\projects\\WebDataRocks\\Pivot\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install'
+1 verbose cli ]
+2 info using npm@3.10.10
+3 info using node@v14.17.6
+4 warn invalid config loglevel="notice"
+5 silly loadCurrentTree Starting
+6 silly install loadCurrentTree
+7 silly install readLocalPackageData
+8 verbose stack TypeError: cb.apply is not a function
+8 verbose stack     at C:\Git\PIVOT\projects\WebDataRocks\Pivot\node_modules\npm\node_modules\graceful-fs\polyfills.js:267:18
+8 verbose stack     at FSReqCallback.oncomplete (fs.js:193:5)
+9 verbose cwd C:\Git\PIVOT\projects\WebDataRocks\Pivot\wrappers\vue-webdatarocks
+10 error Windows_NT 10.0.17763
+11 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Git\\PIVOT\\projects\\WebDataRocks\\Pivot\\node_modules\\npm\\bin\\npm-cli.js" "install"
+12 error node v14.17.6
+13 error npm  v3.10.10
+14 error cb.apply is not a function
+15 error If you need help, you may report this error at:
+15 error     <https://github.com/npm/npm/issues>
+16 verbose exit [ 1, true ]
