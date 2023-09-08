@@ -1,6 +1,6 @@
 # Vue wrapper for WebDataRocks
 
-This repository contains the source code of the Vue wrapper for (WebDataRocks)[https://www.webdatarocks.com/]. Use the wrapper to integrate WebDataRocks into (Vue.js)[https://vuejs.org/] applications.
+This repository contains the source code of the Vue wrapper for [WebDataRocks](https://www.webdatarocks.com/). Use the wrapper to integrate WebDataRocks into [Vue.js](https://vuejs.org/) applications.
 
 ## <a name="usage"></a>Usage
 
