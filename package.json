@@ -1,5 +1,5 @@
 {
-  "name": "vue-webdatarocks",
+  "name": "@webdatarocks/vue-webdatarocks",
   "version": "1.4.9",
   "description": "VueJS Module for WebDataRocks Web Pivot Table Tool",
   "main": "./dist/index.js",
@@ -38,10 +38,10 @@
     }
   },
   "peerDependencies": {
-    "webdatarocks": "1.4.9"
+    "@webdatarocks/webdatarocks": "1.4.9"
   },
   "dependencies": {
-    "webdatarocks": "1.4.9"
+    "@webdatarocks/webdatarocks": "1.4.9"
   },
   "keywords": [
     "pivot",

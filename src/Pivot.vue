@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import WebDataRocks from "webdatarocks";
+import WebDataRocks from "@webdatarocks/webdatarocks";
 export default {
   name: "Pivot",
   props: {
@@ -64,5 +64,5 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-@import '~webdatarocks/webdatarocks.min.css';
+@import '~@webdatarocks/webdatarocks/webdatarocks.min.css';
 </style>

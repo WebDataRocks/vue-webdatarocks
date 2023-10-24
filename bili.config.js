@@ -1,6 +1,6 @@
 module.exports = {
   banner: true,
-  externals: ['vue', 'webdatarocks'],
+  externals: ['vue', 'webdatarocks', '@webdatarocks/webdatarocks'],
   output: {
     extractCSS: false,
     format: [
