@@ -1,7 +1,7 @@
 {
   "name": "@webdatarocks/vue-webdatarocks",
   "version": "1.4.13",
-  "description": "VueJS Module for WebDataRocks Web Pivot Table Tool",
+  "description": "Vue 2 wrapper for the WebDataRocks Pivot Table component",
   "main": "./dist/index.js",
   "module": "./dist/index.esm.min.js",
   "unpkg": "./dist/index.umd.min.js",
