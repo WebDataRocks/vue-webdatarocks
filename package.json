@@ -1,6 +1,6 @@
 {
   "name": "@webdatarocks/vue-webdatarocks",
-  "version": "1.4.17",
+  "version": "1.4.18",
   "description": "Vue 2 wrapper for the WebDataRocks Pivot Table component",
   "main": "./dist/index.js",
   "module": "./dist/index.esm.min.js",
