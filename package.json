@@ -38,10 +38,10 @@
     }
   },
   "peerDependencies": {
-    "@webdatarocks/webdatarocks": "1.4.18"
+    "@webdatarocks/webdatarocks": "1.4.19"
   },
   "dependencies": {
-    "@webdatarocks/webdatarocks": "1.4.18"
+    "@webdatarocks/webdatarocks": "1.4.19"
   },
   "keywords": [
     "pivot",
