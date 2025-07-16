@@ -4,7 +4,9 @@ This repository contains the source code of the Vue wrapper for [WebDataRocks](h
 
 ## Usage
 
-Refer to the WebDataRocks documentation for details on using the WebDataRocks Vue wrapper: [Integration with Vue](https://www.webdatarocks.com/doc/integration-with-vue/).
+Refer to the WebDataRocks documentation for details on using the WebDataRocks Vue wrapper:
+- [Integration with Vue 2](https://www.webdatarocks.com/doc/vue/how-to-start-online-reporting/#integration)
+- [Integration with Vue 3](https://www.webdatarocks.com/doc/vue/how-to-start-online-reporting/#integration-vue-3)
 
 ## Sample project
 
