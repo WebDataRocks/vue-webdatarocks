@@ -13,6 +13,10 @@ Refer to the WebDataRocks documentation for details on using the WebDataRocks Vu
 
 Try our [sample WebDataRocks Vue 2 project](https://github.com/WebDataRocks/pivot-vue) to see an integration example.
 
+## License
+
+The WebDataRocks Vue wrapper is distributed under the terms and conditions of the WebDataRocks End User License Agreement: [https://www.webdatarocks.com/license-agreement/](https://www.webdatarocks.com/license-agreement/?r=wrap_vue).
+
 ## Support
 
 For WebDataRocks-related questions, bug reports, and feature requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
