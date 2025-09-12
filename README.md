@@ -1,5 +1,9 @@
 # Vue wrapper for WebDataRocks
 [![WebDataRocks](https://cdn.webdatarocks.com/readmes/vue.png)](https://www.webdatarocks.com/?r=wrap_vue)
+Website: [webdatarocks.com](https://www.webdatarocks.com?r=wrap_vue)
+
+[![NPM](https://img.shields.io/npm/v/@webdatarocks/vue-webdatarocks)](https://www.npmjs.com/package/@webdatarocks/vue-webdatarocks)
+[![Github Stars](https://img.shields.io/github/stars/webdatarocks?style=social)](https://github.com/webdatarocks) [![Twitter](https://img.shields.io/twitter/follow/WebDataRocks?style=social)](https://twitter.com/WebDataRocks)
 
 This repository contains the source code of the Vue wrapper for [WebDataRocks](https://www.webdatarocks.com/?r=wrap_vue). Use the wrapper to integrate WebDataRocks into [Vue.js](https://vuejs.org/) applications.
 
