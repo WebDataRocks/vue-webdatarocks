@@ -14,7 +14,7 @@
     "name": "WebDataRocks",
     "email": "help@webdatarocks.com"
   },
-  "license": "MIT",
+  "license": "https://webdatarocks.com/license-agreement/",
   "files": [
     "dist/*"
   ],
